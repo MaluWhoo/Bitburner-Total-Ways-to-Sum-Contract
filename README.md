@@ -2,6 +2,8 @@
 
 contract-458222-JoesGuns.cct
 
+---
+
 Total Ways to Sum
 You are attempting to solve a Coding Contract. You have 10 tries remaining, after which the contract will self-destruct.
 
