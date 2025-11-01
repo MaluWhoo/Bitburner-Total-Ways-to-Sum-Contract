@@ -1,4 +1,4 @@
-# bitburner-game-resolution-1
+# Bitburner Game || resolution - 1
 
 contract-458222-JoesGuns.cct
 
