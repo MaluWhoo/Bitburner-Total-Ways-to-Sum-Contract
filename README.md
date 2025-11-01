@@ -19,3 +19,5 @@ How many different distinct ways can the number 87 be written as a sum of at lea
 
 
 If your solution is an empty string, you must leave the text box empty. Do not use "", '', or ``.
+
+---
